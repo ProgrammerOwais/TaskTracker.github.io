@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProgrammerOwais/TaskTracker.github.io/static/css/main.31cd00b7.css",
+    "main.js": "/ProgrammerOwais/TaskTracker.github.io/static/js/main.c5d15e22.js",
+    "static/js/787.7f320c1d.chunk.js": "/ProgrammerOwais/TaskTracker.github.io/static/js/787.7f320c1d.chunk.js",
+    "index.html": "/ProgrammerOwais/TaskTracker.github.io/index.html",
+    "main.31cd00b7.css.map": "/ProgrammerOwais/TaskTracker.github.io/static/css/main.31cd00b7.css.map",
+    "main.c5d15e22.js.map": "/ProgrammerOwais/TaskTracker.github.io/static/js/main.c5d15e22.js.map",
+    "787.7f320c1d.chunk.js.map": "/ProgrammerOwais/TaskTracker.github.io/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.c5d15e22.js"
+  ]
+}
